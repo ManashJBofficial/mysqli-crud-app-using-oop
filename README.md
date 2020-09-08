@@ -1,1 +1,1 @@
-# mysqli-crud-app-using-oop
+# Simple CRUD app using mysqli-oop rest api
